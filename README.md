@@ -21,4 +21,5 @@ more. First Class Interiors company is looking for a website which should be mor
 country-wide so that they could earn more benefits.
 
 All rights to this code belong to First Class Interiors, this code may be distributed and used.
+
 Author: Jolon Morris-Bentley
